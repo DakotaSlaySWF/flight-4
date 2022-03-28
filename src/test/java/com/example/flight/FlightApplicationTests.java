@@ -9,7 +9,6 @@ class FlightApplicationTests {
 	@Test
 	void contextLoads() {
 		FlightApplication.main(new String[]{"1,2"});
-
 	}
 
 }
